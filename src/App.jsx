@@ -377,11 +377,13 @@ export default function App() {
                   Work With Me
                 </a>
                 <a
-                  href="mailto:sibi772001@gmail.com?subject=Resume Request"
+                  href="/assets/Sibi_Vengatesan_Resume.pdf"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="btn btn-secondary"
                 >
-                  <i className="fa-solid fa-download btn-icon"></i>Request
-                  Resume PDF
+                  <i className="fa-solid fa-download btn-icon"></i>Download
+                  Resume
                 </a>
               </div>
             </div>
