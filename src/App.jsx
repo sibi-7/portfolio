@@ -672,18 +672,7 @@ export default function App() {
                       Investigated and resolved application issues, performed debugging and testing, and supported stable application releases.
                     </span>
                   </li>
-                  <li>
-                    <i className="fa-solid fa-circle-check exp-bullet"></i>
-                    <span>
-                      Collaborated with development and business teams in an <strong>Agile environment</strong> throughout development, testing, bug fixing, and deployment activities.
-                    </span>
-                  </li>
-                  <li>
-                    <i className="fa-solid fa-circle-check exp-bullet"></i>
-                    <span>
-                      Used <strong>Git, GitLab, and Postman</strong> for source control, collaboration, API testing, and development workflows.
-                    </span>
-                  </li>
+
                 </ul>
                 <div style={{ marginTop: "1rem", fontSize: "0.9rem", color: "var(--text-secondary)" }}>
                   <strong>Technology Stack:</strong> Java | Spring Boot | Angular 20 | AngularJS | Oracle | REST APIs | Git | GitLab | Postman | Agile/Scrum
