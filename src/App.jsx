@@ -616,6 +616,80 @@ export default function App() {
                 </ul>
               </div>
             </div>
+            {/* Third Card: GBS */}
+            <div className="timeline-content">
+              <div className="timeline-header">
+                <span className="timeline-date">Mar 2025 – Present</span>
+                <h3 className="timeline-role">Software Engineer</h3>
+                <h4 className="timeline-company">
+                  <i className="fa-solid fa-building timeline-company-icon"></i>{" "}
+                  Inspirisys Solutions Limited{" "}
+                  <span className="timeline-location">Chennai, TN</span>
+                </h4>
+              </div>
+
+              <div className="timeline-body">
+                <div className="project-tagline-experience">
+                  <strong>Project:</strong> Government Business Suite (GBS)
+                </div>
+                <div style={{ marginBottom: "1rem", color: "var(--text-secondary)", fontSize: "0.9rem" }}>
+                  Government Business Suite (GBS) is an enterprise application platform developed to support government and banking-related business operations. I contributed to the development, modernization, and enhancement of GBS applications implemented across multiple banking environments, including <strong>DBS, IOB, RBL, CBI, IBL, and HDFC</strong>.
+                </div>
+                <ul className="experience-list">
+                  <li>
+                    <i className="fa-solid fa-circle-check exp-bullet"></i>
+                    <span>
+                      Contributed to the modernization of legacy applications by migrating <strong>AngularJS to Angular 20</strong> and upgrading <strong>Java 7/8 applications to modern Java versions</strong>.
+                    </span>
+                  </li>
+                  <li>
+                    <i className="fa-solid fa-circle-check exp-bullet"></i>
+                    <span>
+                      Developed and enhanced business modules and <strong>reporting features</strong> using Angular and Java based on functional requirements.
+                    </span>
+                  </li>
+                  <li>
+                    <i className="fa-solid fa-circle-check exp-bullet"></i>
+                    <span>
+                      Refactored frontend and backend components to improve <strong>application performance, maintainability, scalability, and compatibility</strong>.
+                    </span>
+                  </li>
+                  <li>
+                    <i className="fa-solid fa-circle-check exp-bullet"></i>
+                    <span>
+                      Developed and integrated <strong>RESTful APIs</strong> for reliable communication between frontend and backend services.
+                    </span>
+                  </li>
+                  <li>
+                    <i className="fa-solid fa-circle-check exp-bullet"></i>
+                    <span>
+                      Worked on database-driven modules using <strong>Oracle</strong> and optimized application functionality for enterprise use cases.
+                    </span>
+                  </li>
+                  <li>
+                    <i className="fa-solid fa-circle-check exp-bullet"></i>
+                    <span>
+                      Investigated and resolved application issues, performed debugging and testing, and supported stable application releases.
+                    </span>
+                  </li>
+                  <li>
+                    <i className="fa-solid fa-circle-check exp-bullet"></i>
+                    <span>
+                      Collaborated with development and business teams in an <strong>Agile environment</strong> throughout development, testing, bug fixing, and deployment activities.
+                    </span>
+                  </li>
+                  <li>
+                    <i className="fa-solid fa-circle-check exp-bullet"></i>
+                    <span>
+                      Used <strong>Git, GitLab, and Postman</strong> for source control, collaboration, API testing, and development workflows.
+                    </span>
+                  </li>
+                </ul>
+                <div style={{ marginTop: "1rem", fontSize: "0.9rem", color: "var(--text-secondary)" }}>
+                  <strong>Technology Stack:</strong> Java | Spring Boot | Angular 20 | AngularJS | Oracle | REST APIs | Git | GitLab | Postman | Agile/Scrum
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </section>
